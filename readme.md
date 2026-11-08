@@ -70,7 +70,7 @@ Este projeto é baseado no jogo **Yu-Gi-Oh | Jo-ken-po Edition**, criado pelo pr
 
 Yu-Gi-Oh! é marca registrada de seus respectivos proprietários. Projeto sem fins lucrativos, feito para fins educacionais.
 
-- ## 👨‍💻 Autor desta versão
+## 👨‍💻 Autor desta versão
 
 Feito por **Vinícius Cruz dos Santos**
 
