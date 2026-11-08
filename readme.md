@@ -66,6 +66,6 @@ Este projeto é baseado no jogo **Yu-Gi-Oh | Jo-ken-po Edition**, criado pelo pr
 
 - Repositório original (assets e base do projeto): [digitalinnovationone/js-yugioh-assets](https://github.com/digitalinnovationone/js-yugioh-assets)
 - Imagens, áudios, vídeo e estilos de interface vêm dos assets do projeto original.
-- Esta versão expandida, com Life Points, combos, tempo, dificuldades, poderes, ranking e menu de instruções, foi desenvolvida por Vinícius Cruz dos Santos com apoio do Claude (Anthropic).
+- Esta versão expandida, com Life Points, combos, tempo, dificuldades, poderes, ranking e menu de instruções, foi desenvolvida por Vinícius Cruz dos Santos 
 
 Yu-Gi-Oh! é marca registrada de seus respectivos proprietários. Projeto sem fins lucrativos, feito para fins educacionais.
